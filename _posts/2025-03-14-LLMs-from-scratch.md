@@ -398,5 +398,11 @@ docker run -d -p 3210:3210   -e OPENAI_API_KEY=e7bb487e-7cd7-43fd-b129-2e943df76
 2. Rocky系统命令行界面校验文件：[Rocky-9-latest-x86_64-minimal.iso.CHECKSUM](https://dl.rockylinux.org/pub/rocky/9.5/isos/x86_64/Rocky-9-latest-x86_64-minimal.iso.CHECKSUM)
 3. Rocky系统图形界面：[Rocky-9-KDE-x86_64-latest.iso](https://dl.rockylinux.org/pub/rocky/9.5/live/x86_64/Rocky-9-KDE-x86_64-latest.iso)
 4. Rocky系统图形界面校验文件：[Rocky-9-KDE-x86_64-latest.iso.CHECKSUM](https://dl.rockylinux.org/pub/rocky/9.5/live/x86_64/Rocky-9-KDE-x86_64-latest.iso.CHECKSUM)
-5. Rufus工具：[Rufus](https://github.com/pbatard/rufus/releases/download/v4.6/rufus-4.6_x86.exe)
-6. CUDA仓库：[cuda rhel9 repos](http://developer.download.nvidia.com/compute/cuda/repos/rhel9)
+5. Rocky仓库：[rocky linux](https://dl.rockylinux.org/pub/rocky/9.5/)
+6. 系统安装教程：[openEuler安装方式介绍](https://docs.openeuler.org/zh/docs/22.03_LTS_SP2/docs/Installation/installation.html)
+7. Rufus工具：[Rufus](https://github.com/pbatard/rufus/releases/download/v4.6/rufus-4.6_x86.exe)
+8. CUDA仓库：[cuda rhel9 repos](http://developer.download.nvidia.com/compute/cuda/repos/rhel9)
+9. NVIDIA GPU驱动安装：[Installing NVIDIA GPU Drivers](https://docs.rockylinux.org/af/desktop/display/installing_nvidia_gpu_drivers/)
+10. Docker安装：[Install Docker Engine on RHEL](https://docs.docker.com/engine/install/rhel/)
+11. Docker安装Ollama：[Ollama Docker image](https://ollama.readthedocs.io/en/docker/#try-different-models)
+12. 
