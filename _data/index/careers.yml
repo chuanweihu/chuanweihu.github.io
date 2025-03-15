@@ -1,11 +1,16 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name: canchip
-  link: https://www.canchip.cn
-  date: Dec. 2021 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+- name: nnice
+  link: https://www.cannano.cn/index/index/gczx.html
+  date: Sep. 2024 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
   job: Parallel Computing Engineer
 
-- name: cannano`
+- name: canchip
+  link: https://www.canchip.cn
+  date: Dec. 2021 - Sep. 2024
+  job: Parallel Computing Engineer
+
+- name: cannano
   link: http://www.cannano.cn
-  date: Mar 2020 - Dec. 2021
+  date: Mar. 2020 - Dec. 2021
   job: Parallel Computing Engineer
