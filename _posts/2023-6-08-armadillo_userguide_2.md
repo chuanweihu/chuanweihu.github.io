@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Armadillo使用手册2-数值的通用操作
-categories: [blog]
+categories: [libs]
 comments: true
 tags: [Armadillo]
 ---

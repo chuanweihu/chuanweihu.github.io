@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  使用VNC服务管理远程图形化主机
-categories: [blog]
+categories: [linux]
 comments: true
 tags: [Linux]
 ---

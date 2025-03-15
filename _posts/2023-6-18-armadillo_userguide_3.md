@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Armadillo使用手册3-数据的保存和读取
-categories: [blog]
+categories: [libs]
 comments: true
 tags: [Armadillo]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Python工程项目管理
-categories: [blog]
+categories: [python]
 comments: true
 tags: [python]
 ---

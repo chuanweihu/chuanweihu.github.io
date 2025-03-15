@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Linux系统-CentOS/Rocky系统的再生龙备份
-categories: [blog]
+categories: [linux]
 comments: true
 tags: [Linux]
 ---

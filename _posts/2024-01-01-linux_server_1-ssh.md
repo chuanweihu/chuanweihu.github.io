@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  使用SSH服务管理远程主机
-categories: [blog]
+categories: [linux]
 comments: true
 tags: [Linux]
 ---

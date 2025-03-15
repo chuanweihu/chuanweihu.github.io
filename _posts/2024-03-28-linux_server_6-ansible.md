@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  使用Ansible服务实现自动化运维
-categories: [blog]
+categories: [linux]
 comments: true
 tags: [Linux]
 ---
@@ -26,8 +26,6 @@ Ansible 采用模块化方法，使您能够扩展主系统的功能以处理特
 配置文件主要以 YAML 数据序列化格式编写，因为它的表达性和与流行标记语言的相似性。 Ansible 可以通过命令行工具或其配置脚本（称为 Playbooks）与主机交互。
 
 ## 先决条件
-
-要遵循本教程，您将需要：
 
 - 一个 Ansible 控制节点：Ansible 控制节点是我们将用来通过 SSH 连接和控制 Ansible 主机的机器。 您的 Ansible 控制节点可以是您的本地计算机或专用于运行 Ansible 的服务器，但本指南假定您的控制节点是 Ubuntu 18.04 系统。 确保控制节点具有：
     - 具有 sudo 权限的非 root 用户。 要进行此设置，您可以按照我们的 Ubuntu 18.04 初始服务器设置指南的 步骤 2 和 3 。 但是，请注意，如果您使用远程服务器作为 Ansible 控制节点，则应遵循本指南的 每一步 。 这样做将使用 ufw 在服务器上配置防火墙并启用对您的非 root 用户配置文件的外部访问，这两者都将有助于保持远程服务器的安全。

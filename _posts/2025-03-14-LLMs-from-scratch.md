@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  谈谈从零开始搭建大模型
-categories: [blog]
+categories: [LLMs]
 comments: true
-tags: [Rocky, LLM]
+tags: [Rocky, LLMs]
 ---
 
 > 自从在网上使用了DeepSeek-R1之后，发现写代码的工作可以变得非常简单。恰好公司的服务器最近使用率低，可以从内网匀出一台来搭建大模型。公司的服务器没有用于显示用的GPU卡，导致开始的图形化界面时遇到了一些问题，不过也解决了。搭建模型的过程中趟了一些坑，不过感觉费时间的是熟悉工具的使用，没什么难度。将模型搭建起来后，感觉写代码的工作省事不少。
@@ -405,4 +405,3 @@ docker run -d -p 3210:3210   -e OPENAI_API_KEY=e7bb487e-7cd7-43fd-b129-2e943df76
 9. NVIDIA GPU驱动安装：[Installing NVIDIA GPU Drivers](https://docs.rockylinux.org/af/desktop/display/installing_nvidia_gpu_drivers/)
 10. Docker安装：[Install Docker Engine on RHEL](https://docs.docker.com/engine/install/rhel/)
 11. Docker安装Ollama：[Ollama Docker image](https://ollama.readthedocs.io/en/docker/#try-different-models)
-12. 
