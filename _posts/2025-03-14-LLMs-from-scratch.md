@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  谈谈从零开始搭建大模型
+title:  谈谈如何在内网从零开始搭建大模型
 categories: [LLMs]
 comments: true
 tags: [Rocky, LLMs]
