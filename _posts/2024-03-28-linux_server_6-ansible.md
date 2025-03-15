@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  使用Ansible服务实现自动化运维
-categories: [linux]
+categories: [study]
 comments: true
 tags: [Linux]
 ---

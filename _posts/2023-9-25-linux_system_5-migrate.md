@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Linux系统-CentOS 7 迁移到Rocky Linux 8
-categories: [linux]
+categories: [study]
 comments: true
 tags: [Linux]
 ---

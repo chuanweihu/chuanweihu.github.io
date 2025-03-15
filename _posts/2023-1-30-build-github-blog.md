@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  搭建github博客
-categories: [blog]
+categories: [study]
 comments: true
 tags: [blog]
 ---

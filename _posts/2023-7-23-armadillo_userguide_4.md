@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Armadillo使用手册4-扩展函数
-categories: [libs]
+categories: [study]
 comments: true
 tags: [Armadillo]
 ---

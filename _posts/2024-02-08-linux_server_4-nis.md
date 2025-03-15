@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  使用NIS服务管理身份信息
-categories: [linux]
+categories: [study]
 comments: true
 tags: [Linux]
 ---

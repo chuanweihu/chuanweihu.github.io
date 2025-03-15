@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Armadillo使用手册5-常见的功能表格
-categories: [libs]
+categories: [study]
 comments: true
 tags: [Armadillo]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  使用python性能剖析工具
-categories: [python]
+categories: [study]
 comments: true
 tags: [python, profile]
 ---

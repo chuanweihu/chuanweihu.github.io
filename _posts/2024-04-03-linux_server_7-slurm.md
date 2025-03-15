@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  使用SLURM管理集群
-categories: [linux]
+categories: [study]
 comments: true
 tags: [Linux]
 ---

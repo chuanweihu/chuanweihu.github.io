@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  使用NFS服务共享文件
-categories: [linux]
+categories: [study]
 comments: true
 tags: [Linux]
 ---

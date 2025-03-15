@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  【Python Testing with pytest Simple, Rapid, Effective, and Scalable】笔记
-categories: [python]
+categories: [study]
 comments: true
 tags: [python, pytest]
 ---

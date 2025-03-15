@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Armadillo使用手册1-基础数值类型
-categories: [libs]
+categories: [study]
 comments: true
 tags: [Armadillo]
 ---

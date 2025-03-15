@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Linux系统-CentOS/Rocky系统的安装
-categories: [linux]
+categories: [study]
 comments: true
 tags: [Linux]
 ---

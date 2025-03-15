@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  使用PXE+Kickstart无人值守安装服务
-categories: [linux]
+categories: [study]
 comments: true
 tags: [Linux]
 ---
