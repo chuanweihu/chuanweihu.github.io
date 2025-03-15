@@ -45,20 +45,28 @@ layout: default
 <div class="share-buttons">
   <h6>Share on: </h6>
   <ul>
+    <!-- 微博分享 -->
     <li>
-      <a href="https://twitter.com/intent/tweet?text={{ site.url }}{{ page.url }}" class="twitter btn" title="Share on Twitter"><i class="fa fa-twitter"></i><span> Twitter</span></a>
+      <a href="https://service.weibo.com/share/share.php?url={{ site.url }}{{ page.url | url_encode }}&title={{ page.title | url_encode }}" 
+         class="weibo btn" 
+         target="_blank" 
+         title="分享到微博">
+        <i class="fa fa-weibo"></i><span> 微博</span>
+      </a>
     </li>
+    
+    <!-- 微信分享 -->
     <li>
-      <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}{{ page.url }}" class="facebook btn" title="Share on Facebook"><i class="fa fa-facebook"></i><span> Facebook</span></a>
-    </li>
-    <li>
-      <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" class="google-plus btn" title="Share on Google Plus"><i class="fa fa-google-plus"></i><span> Google+</span></a>
-    </li>
-    <li>
-      <a href="https://news.ycombinator.com/submitlink?u={{ site.url }}{{ page.url }}" class="hacker-news btn" title="Share on Hacker News"><i class="fa fa-hacker-news"></i><span> Hacker News</span></a>
-    </li>
-    <li>
-      <a href="https://www.reddit.com/submit?url={{ site.url }}{{ page.url }}" class="reddit btn" title="Share on Reddit"><i class="fa fa-reddit"></i><span> Reddit</span></a>
+      <a href="javascript:;" 
+         class="wechat btn" 
+         title="分享到微信"
+         onclick="document.getElementById('wechat-qrcode').style.display='block'">
+        <i class="fa fa-wechat"></i><span> 微信</span>
+      </a>
+      <div id="wechat-qrcode" style="display:none;position:absolute;background:#fff;padding:10px;box-shadow:0 0 10px rgba(0,0,0,0.2)">
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=150x150&data={{ site.url }}{{ page.url | url_encode }}" 
+             alt="微信分享二维码">
+      </div>
     </li>
   </ul>
 </div><!-- end share-buttons -->
